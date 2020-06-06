@@ -5,17 +5,17 @@
 
 The financial sector landscape has evolved rapidly over the last decade or so. This case study will provide a snipet of this evolution through the study of a canadian company, Carta Worldwide. I will priovide a brief description of the changes in the payment ecosystem and illustrate how Carta Worldwide has responded to these changes.
 
-**Name of Company:
+**Name of Company:**
 
 Carta Worldwide
 
 
 
-**When was the company incorporated:
+**When was the company incorporated:**
 
 Carta was incorporated in 2006 
 
-**Who are the Founders
+**Who are the Founders**
 
 The company was founded by Robert Elensky.
 
